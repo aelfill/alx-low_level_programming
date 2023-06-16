@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - alphABET 
+ * main - alphABET
  * Return: Always 0
  */
 int main(void)
@@ -8,7 +8,7 @@ int main(void)
 	int n = 97;
 	int m = 65;
 
-	while(n <= 122)
+	while (n <= 122)
 	{
 		putchar(n);
 		n++;
